@@ -88,7 +88,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
               aria-expanded="false">
-              Others
+              Pages
             </a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="technical-analysis-light.html">Technical Analysis</a>
